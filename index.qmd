@@ -17,7 +17,7 @@ https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports
 Table of Contents
 -   Introduction
 
--   [ Commercial Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
+-   [ Commercial Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Commercial.html)
 -   [ Recreational Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
 -   [ Processed Products ] ()
 -   [ Aquaculture ] ()
