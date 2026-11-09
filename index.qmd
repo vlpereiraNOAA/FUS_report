@@ -1,25 +1,35 @@
 ---
 title: "Home"
-subtitle: "Template for development of regional lab manuals as part of the Passive Acoustic Monitoring Strategic Initiative"
+subtitle: "Fisheries of the United States Report"
 page-layout: full
 ---
 
-## PAM SI Lab Manual Template
+## Fisheries of the United States Report
 
-A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.
+The Fisheries of the United States report is an annual yearbook of fisheries statistics that has been reported in various forms since 1881.
+
+More information about the current edition of the report can be found here: https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states#us-seafood-consumption-and-import-reliance
+Downloadable PDFs can be found here:
+https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports
 
 ## Required Pages
 
-In order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.
+Table of Contents
+-   Introduction
 
--   Home Page (this page): Edit this page to include an introduction to your lab, projects you are working on, etc.
+-   [ Commercial Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
+-   [ Recreational Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
+-   [ Processed Products ] ()
+-   [ Aquaculture ] ()
+-   [ Foreign Trade ] ()
+-   [ Per Capita Consumption ] ()
+
+-   [Analysis Methods] https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
+-   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
+
 -   [Lab Management](https://nmfs-ost.github.io/PAM_template_lab_manual/content/LabManagement.html)
 -   [Field Methods](https://nmfs-ost.github.io/PAM_template_lab_manual/content/FieldMethods.html)
 -   [Data Management](https://nmfs-ost.github.io/PAM_template_lab_manual/content/DataManagement.html)
--   [Hardware](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
--   [Software](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
--   [Analysis](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
--   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
 
 
 ## Optional Pages
