@@ -8,24 +8,25 @@ page-layout: full
 
 The Fisheries of the United States report is an annual yearbook of fisheries statistics that has been reported in various forms since 1881.
 
-More information about the current edition of the report can be found here: https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states#us-seafood-consumption-and-import-reliance
-Downloadable PDFs can be found here:
-https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports
+More information about the current edition of the report can be found here: 
+[Annual Snapshot](https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states#us-seafood-consumption-and-import-reliance)
+[Downloadable PDFs](https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)
 
+[Quarto Documentation](https://quarto.org)
 Testing edits
 ## Required Pages
 
-Table of Contents
+## Table of Contents
 -   Introduction
 
--   [ Commercial Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Commercial.html)
--   [ Recreational Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
--   [ Processed Products ] ()
--   [ Aquaculture ] ()
--   [ Foreign Trade ] ()
--   [ Per Capita Consumption ] ()
+-   [Commercial Fisheries] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Commercial.html)
+-   [Recreational Fisheries] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
+-   [Processed Products] ()
+-   [Aquaculture]()
+-   [Foreign Trade]()
+-   [Per Capita Consumption]()
 
--   [Analysis Methods] https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
+-   [Analysis Methods](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
 -   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
 
 -   [Lab Management](https://nmfs-ost.github.io/PAM_template_lab_manual/content/LabManagement.html)
