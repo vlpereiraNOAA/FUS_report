@@ -1,4 +1,4 @@
-Template for development of regional lab manuals as part of the PAM SI
+This is a guide to compiling the annual fisheries of the United States Report. It includes background materials and scripts used to draft most chapters of the report.
 
 ### Disclaimer
 
