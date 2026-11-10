@@ -18,19 +18,11 @@ More information about the current edition of the report can be found here:
 ## Table of Contents
 -   Introduction
 -   [Commercial Fisheries](content/Commercial.qmd)
--   [Recreational Fisheries](https://vlpereiranoaa.github.io/FUS_report/content/Recreational.qmd)
--   [Processed Products](https://vlpereiranoaa.github.io/FUS_report/content/Processedproducts.qmd)
--   [Aquaculture](https://vlpereiranoaa.github.io/FUS_report/content/Aquaculture.qmd)
--   [Foreign Trade](https://vlpereiranoaa.github.io/FUS_report/content/Foreigntrade.qmd)
--   [Per Capita Consumption](https://vlpereiranoaa.github.io/FUS_report/content/PCC.qmd)
-
--   [Analysis Methods](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
--   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
-
--   [Lab Management](https://nmfs-ost.github.io/PAM_template_lab_manual/content/LabManagement.html)
--   [Field Methods](https://nmfs-ost.github.io/PAM_template_lab_manual/content/FieldMethods.html)
--   [Data Management](https://nmfs-ost.github.io/PAM_template_lab_manual/content/DataManagement.html)
-
+-   [Recreational Fisheries](content/Recreational.qmd)
+-   [Processed Products](content/Processedproducts.qmd)
+-   [Aquaculture](content/Aquaculture.qmd)
+-   [Foreign Trade](content/Foreigntrade.qmd)
+-   [Per Capita Consumption](content/PCC.qmd)
 
 ## Optional Pages
 
@@ -43,67 +35,3 @@ Here are some more ideas for pages to include in your lab manual. These are opti
 -   [Open Science](https://nmfs-ost.github.io/PAM_template_lab_manual/content/OpenScience.html)
 -   [Publications/Presentations](https://nmfs-ost.github.io/PAM_template_lab_manual/content/PublicationsPresentations.html)
 -   [Resources](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Resources.html)
-
-## How To Use This Template
-
-This template will create a Quarto website that each lab can copy and edit with their own lab information. Follow the steps below to copy this template to your lab's GitHub
-
-1.  Open [this repository on GitHub](https://github.com/nmfs-ost/PAM_template_lab_manual)
-
-2.  Click on the 'Use this template' button in the top right, select 'Create new repository'
-
-    ![](content/images/repoTemplate.png)
-
-3.  Edit repository settings
-
-    -   Select the 'Include all branches' option
-
-    -   Select your lab organization or yourself as the owner and set the repository name to 'Lab name Lab Manual'
-
-    -   Make description "Lab manual for 'insert lab name and FMC'"
-
-    -   Make the repo public
-
-        ![](content/images/RepoSettings.png)
-
-4.  Click create repository
-
-5.  Turn on GitHub pages under Settings-\>Pages. You will set pages to be made from the gh-pages branch and root directory
-
-    ![](content/images/branches.png)
-
-6.  Update 'Actions' settings
-
-    -   Under Settings -\> Actions -\> General -\> Actions permissions select 'Allow all actions and reusable workflows'. Select save
-
-        ![](content/images/actions.png){width="323"}
-
-    -   Under Settings -\> Actions -\> General -\> Workflow permissions select 'Read and write permissions'
-
-        ![](content/images/workflowPermissions.png)
-
-        ::: callout-important
-        ## Note: Both of these settings may already be selected but you have to click save for both
-        :::
-
-7.  Return to the main page of the repo to edit your website
-
-    -   Click on 'Code' in the top left
-
-    -   Click on the settings button next to the 'About' section on the right side of the repository
-
-    -   Select 'Use your GitHub Pages website'. This should autopopulate the website
-
-    -   Select 'Save Changes'
-
-        ![](content/images/website.png)
-
-8.  Your lab manual is now created! Go [here](https://sael-swfsc.github.io/OpenScience/content/labManual.html) for more information on building your lab manual.
-
-## Example Manuals
-
-Here are two lab manuals to pull inspiration from
-
--   [SWFSC Southwest Acoustic Ecology Lab Manual](https://sael-swfsc.github.io/SAEL-lab-manual/content/media.html)
--   [Faylab Manual](https://thefaylab.github.io/lab-manual/)
--   [SWFSC Glider Lab Manual](https://swfsc.github.io/glider-lab-manual/)
