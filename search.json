@@ -60,22 +60,44 @@
     ]
   },
   {
-    "objectID": "content/SharedValues.html",
-    "href": "content/SharedValues.html",
-    "title": "Shared Values",
+    "objectID": "content/Aquaculture.html",
+    "href": "content/Aquaculture.html",
+    "title": "Field Methods",
     "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
+    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
     "crumbs": [
-      "Optional Pages",
-      "Shared Values"
+      "Aquaculture"
     ]
   },
   {
-    "objectID": "content/Recreational.html",
-    "href": "content/Recreational.html",
-    "title": "Analysis Methods",
+    "objectID": "content/Reporting.html",
+    "href": "content/Reporting.html",
+    "title": "Reporting",
     "section": "",
-    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example"
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#templates",
+    "href": "content/Reporting.html#templates",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#permits",
+    "href": "content/Reporting.html#permits",
+    "title": "Reporting",
+    "section": "Permits",
+    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "crumbs": [
+      "Reporting"
+    ]
   },
   {
     "objectID": "content/LabManagement.html",
@@ -367,44 +389,21 @@
     ]
   },
   {
-    "objectID": "content/FieldMethods.html",
-    "href": "content/FieldMethods.html",
-    "title": "Field Methods",
+    "objectID": "content/Recreational.html",
+    "href": "content/Recreational.html",
+    "title": "Analysis Methods",
     "section": "",
-    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
+    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example"
+  },
+  {
+    "objectID": "content/SharedValues.html",
+    "href": "content/SharedValues.html",
+    "title": "Shared Values",
+    "section": "",
+    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
     "crumbs": [
       "Optional Pages",
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#permits",
-    "href": "content/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
-    "crumbs": [
-      "Reporting"
+      "Shared Values"
     ]
   },
   {
