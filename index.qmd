@@ -17,7 +17,7 @@ More information about the current edition of the report can be found here:
 
 ## Table of Contents
 -   Introduction
--   [Commercial Fisheries](https://vlpereiranoaa.github.io/FUS_report/content/Commercial.qmd)
+-   [Commercial Fisheries](content/Commercial.qmd)
 -   [Recreational Fisheries](https://vlpereiranoaa.github.io/FUS_report/content/Recreational.qmd)
 -   [Processed Products](https://vlpereiranoaa.github.io/FUS_report/content/Processedproducts.qmd)
 -   [Aquaculture](https://vlpereiranoaa.github.io/FUS_report/content/Aquaculture.qmd)
