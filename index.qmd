@@ -4,17 +4,16 @@ subtitle: "Fisheries of the United States Report"
 page-layout: full
 ---
 
-## Fisheries of the United States Report
+## Fisheries of the United States Report Documentation
 
 The Fisheries of the United States report is an annual yearbook of fisheries statistics that has been reported in various forms since 1881.
 
 More information about the current edition of the report can be found here: 
--   [Annual Snapshot](https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states#us-seafood-consumption-and-import-reliance)
--   [Downloadable PDFs](https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)
+* [Annual Snapshot](https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states#us-seafood-consumption-and-import-reliance)
+* [Downloadable PDFs](https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)
 Data used to create this report can be queried here:
--   [Fisheries One Stop Shop (FOSS) Portal](https://www.fisheries.noaa.gov/foss/f?p=215:200::::::) 
+* [Fisheries One Stop Shop (FOSS) Portal](https://www.fisheries.noaa.gov/foss/f?p=215:200::::::) 
 
-[Quarto Documentation](https://quarto.org)
 ## Required Pages
 
 ## Table of Contents
