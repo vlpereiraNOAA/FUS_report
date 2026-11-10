@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "The Fisheries of the United States report is an annual yearbook of fisheries statistics that has been reported in various forms since 1881.\nMore information about the current edition of the report can be found here: https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states#us-seafood-consumption-and-import-reliance Downloadable PDFs can be found here: https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports\nTesting edits ## Required Pages\nTable of Contents - Introduction\n\n[ Commercial Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Commercial.html)\n[ Recreational Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)\n[ Processed Products ] ()\n[ Aquaculture ] ()\n[ Foreign Trade ] ()\n[ Per Capita Consumption ] ()\n[Analysis Methods] https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)\nReporting\nLab Management\nField Methods\nData Management",
+    "text": "The Fisheries of the United States report is an annual yearbook of fisheries statistics that has been reported in various forms since 1881.\nMore information about the current edition of the report can be found here: Annual Snapshot Downloadable PDFs\nQuarto Documentation Testing edits ## Required Pages",
     "crumbs": [
       "Home"
     ]
@@ -14,7 +14,17 @@
     "href": "index.html#fisheries-of-the-united-states-report",
     "title": "Home",
     "section": "",
-    "text": "The Fisheries of the United States report is an annual yearbook of fisheries statistics that has been reported in various forms since 1881.\nMore information about the current edition of the report can be found here: https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states#us-seafood-consumption-and-import-reliance Downloadable PDFs can be found here: https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports\nTesting edits ## Required Pages\nTable of Contents - Introduction\n\n[ Commercial Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Commercial.html)\n[ Recreational Fisheries ] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)\n[ Processed Products ] ()\n[ Aquaculture ] ()\n[ Foreign Trade ] ()\n[ Per Capita Consumption ] ()\n[Analysis Methods] https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)\nReporting\nLab Management\nField Methods\nData Management",
+    "text": "The Fisheries of the United States report is an annual yearbook of fisheries statistics that has been reported in various forms since 1881.\nMore information about the current edition of the report can be found here: Annual Snapshot Downloadable PDFs\nQuarto Documentation Testing edits ## Required Pages",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#table-of-contents",
+    "href": "index.html#table-of-contents",
+    "title": "Home",
+    "section": "Table of Contents",
+    "text": "Table of Contents\n\nIntroduction\nCommercial Fisheries\nRecreational Fisheries\nProcessed Products\nAquaculture\nForeign Trade\nPer Capita Consumption\nAnalysis Methods\nReporting\nLab Management\nField Methods\nData Management",
     "crumbs": [
       "Home"
     ]
