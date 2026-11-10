@@ -18,13 +18,12 @@ Testing edits
 
 ## Table of Contents
 -   Introduction
-
--   [Commercial Fisheries] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Commercial.html)
--   [Recreational Fisheries] (https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
--   [Processed Products] ()
--   [Aquaculture]()
--   [Foreign Trade]()
--   [Per Capita Consumption]()
+-   [Commercial Fisheries](https://vlpereiranoaa.github.io/FUS_report/content/Commercial.qmd)
+-   [Recreational Fisheries](https://vlpereiranoaa.github.io/FUS_report/content/Recreational.qmd)
+-   [Processed Products](https://vlpereiranoaa.github.io/FUS_report/content/ProcessedProducts.qmd)
+-   [Aquaculture](https://vlpereiranoaa.github.io/FUS_report/content/Aquaculture.qmd)
+-   [Foreign Trade](https://vlpereiranoaa.github.io/FUS_report/content/ForeignTrade.qmd)
+-   [Per Capita Consumption](https://vlpereiranoaa.github.io/FUS_report/content/PCC.qmd)
 
 -   [Analysis Methods](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
 -   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
